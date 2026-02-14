@@ -25,6 +25,19 @@ VSCodeのステータスバーに現在時刻と時間の進行状況を視覚�
 
 ## Installation
 
+### From VSIX (Recommended)
+
+1. Download the latest `.vsix` file from [Releases](https://github.com/toshimitsu151/time-progress-bar/releases)
+2. Open VSCode
+3. Go to Extensions view (`Cmd+Shift+X`)
+4. Click the `...` menu → `Install from VSIX...`
+5. Select the downloaded `.vsix` file
+
+Or via command line:
+```bash
+code --install-extension time-progress-bar-0.0.1.vsix
+```
+
 ### From Source
 
 ```bash
