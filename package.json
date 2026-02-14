@@ -4,6 +4,7 @@
   "description": "Visual hourly progress in status bar",
   "version": "0.0.1",
   "publisher": "toshimitsu151",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.107.0"
   },
