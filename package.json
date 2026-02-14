@@ -1,7 +1,7 @@
 {
   "name": "time-progress-bar",
   "displayName": "time-progress-bar",
-  "description": "Progress bar clock in status bar",
+  "description": "Visual hourly progress in status bar",
   "version": "0.0.1",
   "publisher": "toshimitsu151",
   "engines": {
